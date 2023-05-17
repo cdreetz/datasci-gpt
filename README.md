@@ -1,5 +1,7 @@
 # datasci-gpt
 
+A HuggingFace tutorial
+
 New training based off of gpt-2
 
 Dataset is filtered to only contain data science terminology, to act as a smaller, quick code completion model for data science users
