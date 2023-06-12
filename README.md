@@ -1,6 +1,5 @@
 # datasci-gpt
 
-A HuggingFace tutorial
 
 New training based off of gpt-2
 
